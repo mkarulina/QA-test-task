@@ -17,6 +17,8 @@
 
 **Окружение:** MacOS 10.14.6, Google Chrome 87.0.4280.88
 
+**Приоритет:** Высокий
+
 **Скрин:**
 
 ![Image](https://github.com/mkarulina/QA-test-task/blob/master/bug_sorting-by-price-per-m2.png)
